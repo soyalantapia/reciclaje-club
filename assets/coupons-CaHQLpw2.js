@@ -1,0 +1,1 @@
+import{N as e,P as t,k as n,w as r}from"./index-D-aDOKJt.js";var i=t()(e(e=>({coupons:[],add:t=>e(e=>({coupons:[t,...e.coupons]})),clear:()=>e({coupons:[]})}),{name:n(`coupons`),...r()}));export{i as t};
