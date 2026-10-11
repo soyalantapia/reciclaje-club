@@ -1,0 +1,1 @@
+import{ct as e,pt as t}from"./index-BeH7cmIO.js";import{c as n,l as r,u as i}from"./proxy-Bwm7b86j.js";var a=t(e(),1);function o(){!r.current&&n();let[e]=(0,a.useState)(i.current);return e}export{o as t};
