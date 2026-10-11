@@ -1,0 +1,1 @@
+import{q as e}from"./index-Dx8gua4X.js";var t=e(`ChevronRight`,[[`path`,{d:`m9 18 6-6-6-6`,key:`mthhwq`}]]);export{t};

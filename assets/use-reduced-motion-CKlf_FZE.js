@@ -1,0 +1,1 @@
+import{at as e,et as t}from"./index-Dx8gua4X.js";import{c as n,l as r,u as i}from"./proxy-K-ep_BSf.js";var a=e(t(),1);function o(){!r.current&&n();let[e]=(0,a.useState)(i.current);return e}export{o as t};
