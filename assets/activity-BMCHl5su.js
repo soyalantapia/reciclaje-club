@@ -1,1 +1,0 @@
-import{At as e,Tt as t,jt as n,yt as r}from"./index--5RW1VhB.js";var i=n()(e(e=>({sessionContributions:[],add:t=>e(e=>({sessionContributions:[t,...e.sessionContributions]})),clear:()=>e({sessionContributions:[]})}),{name:t(`activity`),...r()}));export{i as t};
